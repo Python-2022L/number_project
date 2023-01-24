@@ -33,5 +33,15 @@ class Number:
         check if the number is zero
         """
         return self.number == 0
+    def data_type(self):
+        """
+        check if the number is type
+        """
+        return type(self.number)
+    def prime(self):
+        """
+        check if the number is prime
+        """
+        return 0
 x = Number(20)
 print(x.negative())
