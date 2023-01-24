@@ -59,5 +59,3 @@ class Number:
                 n+=1
             
         return n==2
-
-
