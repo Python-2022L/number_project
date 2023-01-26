@@ -4,4 +4,4 @@ class Number:
     def len(self):
         return len(str(self.number))
 x=Number(10)
-print(x.len())
+print(x.len())  
