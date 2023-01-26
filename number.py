@@ -34,4 +34,4 @@ class Number:
             return False      
 
 x=Number(10)
-print(x.is_prime())  
+print(x.is_prime())
